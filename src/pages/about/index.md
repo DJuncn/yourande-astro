@@ -1,13 +1,13 @@
 ---
 title: "关于"
 h1: "关于我"
-desc: "Hi there, I’m DJuncn 👋"
+desc: "Hi there, I’m Han 👋"
 layout: "@/layouts/PageLayout/PageLayout.astro"
 type: "about"
 ---
 
 :::note{type="success"}
-我是DJuncn，一位对技术充满热情、涉猎广泛的探索者，同时也是一名热衷于探索前沿技术的实践者。
+我是韩小韩，一位对技术充满热情、涉猎广泛的探索者，同时也是一名热衷于探索前沿技术的实践者。
 
 我始终保持对新技术的热情，并将我的知识与经验分享在我的博客中。
 
@@ -17,22 +17,75 @@ type: "about"
 :::
 
 
-【宇宙诞生记：当混沌大厨打了个喷嚏】
+**在 Web 开发方面**，我深耕 Vue.js 生态，并且关注了现代 CSS 框架如 Tailwind CSS。同时，对前端构建工具如 Webpack、Rollup 和 Vite 以及代码质量和规范工具如 ESLint 进行了研究，我还关注了前端性能优化，例如代码分割、资源加载策略以及 Astro、Hexo 等现代网站构建工具的使用。
 
-在很久很久以前，宇宙还是一颗沉睡在虚无之海里的巨型鸡蛋，蛋壳上布满了神秘的星纹，里面却不是我们熟悉的蛋黄和蛋白，而是一锅正在酝酿的“混沌浓汤”。这锅汤可不简单，它包含了所有可能的颜色、声音、味道，还有那些连最疯狂的科学家都想不出来的物理定律，统统搅和在一起，静待着某个奇迹的触发。
+**在后端开发和云计算领域**，我对 Node.js 生态系统非常熟悉，并积极探索 Serverless 架构。我长期使用 Cloudflare Workers、Vercel 和腾讯云 EdgeOne 等平台，优化边缘计算、KV 存储和全球 CDN 加速方案，确保应用的高可用性和低延迟。
 
-某天，混沌大厨——一位穿着星云围裙、头戴银河帽子的神秘存在，正悠闲地漂浮在虚无之海中，手里拿着一把由暗物质制成的巨型汤勺，准备给这锅浓汤来个最后的搅拌。突然，一阵宇宙级的喷嚏袭来，原来是混沌大厨对附近一朵刚绽放的量子小花过敏了。这一喷嚏，可不得了！
+**在自托管（Homelab）和个人服务器管理方面**，我对个人服务器运维充满热情，搭建了基于 Jellyfin 的媒体中心、Home Assistant 智能家居系统，并利用 OpenWrt 优化家庭网络。在 Linux 系统管理、Docker 容器化部署和自动化脚本方面积累了丰富经验。
 
-“阿嚏！”随着这声震天响的喷嚏，混沌大厨手中的汤勺不慎滑落，正好砸在了那颗巨型鸡蛋上。只听“砰”的一声巨响，鸡蛋裂开了，但不是我们常见的那种碎裂，而是像烟花一样绚烂地爆炸开来，释放出了无数璀璨的光芒和五彩斑斓的物质。
+**在人工智能与大型语言模型（LLMs）领域**，我密切关注 AI 领域的发展，尤其是 DeepSeek、Gemini 和 Claude 等大模型的应用。我尝试将 AI 能力整合到开发流程中，例如自动化文档生成、代码优化辅助，并且对 AI SDK 和相关工具保持关注。
 
-这些物质，有的变成了星星，有的变成了行星，还有的变成了那些奇形怪状、让人类至今都搞不明白的星系。而最神奇的是，有一小部分物质，它们特别调皮，不愿意乖乖待在原地，于是它们手拉手，跳起了宇宙级的舞蹈，最终凝聚成了地球——这个后来孕育了无数生命的蓝色小星球。
+**在网络与 DevOps 方面**，我熟悉 DNS 解析、CDN 加速、SSL 证书管理，并研究 TCP/IP、HTTP/3 等协议优化。我实践 Git 工作流、CI/CD 自动化（GitHub Actions / Cloudflare Pages），并利用 Docker 实现开发环境标准化。
 
-地球刚形成时，可不像现在这么生机勃勃。它更像是一个刚出炉的、还没来得及装饰的大蛋糕，表面坑坑洼洼，到处是火山喷发和陨石撞击留下的痕迹。但混沌大厨并没有放弃它，反而觉得这个“半成品”挺有意思，决定给它加点料。
+**🚀 技术理念**
 
-于是，混沌大厨从口袋里掏出了他的秘密武器——一本名为《生命配方》的古老魔法书。他翻开书页，口中念念有词，瞬间，地球上开始出现了水、空气，还有那些最原始的生命形式。从单细胞生物到多细胞生物，从海洋到陆地，生命以一种不可思议的速度在地球上繁衍开来。
+- **持续学习：** 技术日新月异，我始终保持开放心态，学习新框架、新工具，并评估其适用性。
+- **实践驱动：** 无论是个人项目还是开源贡献，我都倾向于动手实践，而非仅停留在理论层面。
+- **效率优先：** 我注重自动化与工具链优化，减少重复劳动，提升开发体验。
 
-而人类呢？据说是混沌大厨在一次喝多了宇宙奶茶后，随手捏出来的小玩意儿。他本来只是想看看这些小家伙能不能在地球上玩出点新花样，没想到人类竟然发展出了文明，还开始探索起了宇宙的奥秘。
+**🎯 未来方向**
+未来，我计划进一步探索：
 
-“哎呀，这下可热闹了！”混沌大厨看着地球上忙碌的人类，笑得合不拢嘴，“看来我得找个时间再来个‘宇宙大更新’，给这些小家伙们加点新挑战才行！”
+- **边缘计算与全球化部署**，优化分布式应用的性能。
+- **AI 增强开发**，探索 LLM 在代码生成、调试和文档管理中的应用。
+- **智能家居与自动化**，结合 Home Assistant 打造更高效的家庭 lab。
 
-就这样，宇宙在混沌大厨的恶作剧和不经意间的创造中，继续着它那永无止境的奇妙旅程。而我们，作为这个宇宙大家庭中的一员，正怀揣着好奇和梦想，不断探索着这个既神秘又充满乐趣的世界。
+## Languages and Tools
+
+<div class="language-tool">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://nodejs.org" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
+  <a href="https://www.php.net/" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/php-3776AB?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
+  <a href="https://www.python.org" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+  <a href="https://www.nginx.com" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" /></a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
+  <a href="https://webpack.js.org" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" /></a>
+  <a href="https://www.electronjs.org" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" /></a>
+  <a href="https://expressjs.com" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
+</div>
+
+## 小站点
+
+|     主&emsp;页      |       <https://www.4ce.cn>        |
+| :-----------------: | :-------------------------------: |
+|   **博&emsp;客**    |    **<https://www.vvhan.com>**    |
+|  **Web&emsp;API**   |    **<https://api.vvhan.com>**    |
+|  **Han Analytics**  | **<https://analytics.vvhan.com>** |
+| **Cloudflare 优选** |    **<https://cf.vvhan.com>**     |
+
+## 联系我
+
+```js
+const Han = class {
+	constructor() {
+		const Hello = [123, 34, 110, 97, 109, 101, 34, 58, 34, 72, 97, 110, 34, 44, 34, 101, 109, 97, 105, 108, 34, 58, 34, 49, 54];
+		const EveryOne = [53, 53, 52, 54, 54, 51, 56, 55, 64, 113, 113, 46, 99, 111, 109, 34, 44, 34, 81, 81, 34, 58, 49, 54, 53, 53];
+		const WelcomeTo = [52, 54, 54, 51, 56, 55, 44, 34, 119, 101, 99, 104, 97, 116, 34, 58, 49, 54, 53, 53, 52, 54, 54, 51, 56, 55];
+		const MineBlog = [44, 34, 98, 105, 114, 116, 104, 34, 58, 49, 57, 57, 56, 44, 34, 115, 101, 120, 34, 58, 34, 30007, 34, 125];
+		const AboutMe = JSON.parse(String.fromCharCode.apply(null, [...Hello, ...EveryOne, ...WelcomeTo, ...MineBlog]));
+		AboutMe.age = new Date().getFullYear() - AboutMe.birth;
+		console.log(AboutMe);
+	}
+};
+new Han();
+```
+
+<style>.enfj-dom{margin:1rem 0;position:relative;box-sizing:border-box;padding:1rem 2rem;display:flex;justify-content:space-between;width:100%;height:16rem;background:#fff;border:1px solid #e3e8f7;border-radius:12px;box-shadow:0 8px 16px -4px #2c2d300c;overflow:hidden;background:url("/assets/images/enfj.webp") no-repeat;background-size:8.8rem auto;background-position:right 2rem;transition:all .36s}.enfj-dom:hover{background-position:right 1.6rem}.enfj-dom>.text{display:flex;flex-direction:column;width:100%}.enfj-dom>.text>em,.enfj-dom>.text>span{padding:0;margin:0;font-size:2rem;cursor:default;line-height:2.6rem;font-style:normal}.enfj-dom>.text>span{font-weight:bold;color:#33a474}.enfj-dom>.text>a.more-enfj{margin-top:auto;color:#999 !important;font-size:.88rem !important;text-decoration:none !important}</style>
