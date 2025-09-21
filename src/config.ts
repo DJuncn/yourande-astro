@@ -10,7 +10,7 @@ export default {
   // 网站作者
   Author: 'DJuncn',
   // 作者头像
-  Avatar: 'https://s21.ax1x.com/2025/09/03/pVgdrHH.jpg',
+  Avatar: 'https://s21.ax1x.com/2025/09/12/pVWdgSI.jpg',
   // 网站座右铭
   Motto: '风带不走时间，君留不住风',
   // Cover 网站缩略图
@@ -83,6 +83,7 @@ export default {
   },
   // DNS预解析地址
   DNSOptimization: [
+    'https://s21.ax1x.com',
     'https://i0.wp.com',
     'https://cn.cravatar.com',
     'https://analytics.vvhan.com',
@@ -118,9 +119,11 @@ export default {
   // 文章内赞赏码
   Reward: {
     // 支付宝收款码
-    AliPay: '/assets/images/alipay.webp',
+    //AliPay: '/assets/images/alipay.webp',
+    AliPay: '#',
     // 微信收款码
-    WeChat: '/assets/images/wechat.webp'
+    //WeChat: '/assets/images/wechat.webp'
+    WeChat: '#'
   },
   // 访问网页 自动推送到搜索引擎
   SeoPush: {
